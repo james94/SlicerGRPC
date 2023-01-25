@@ -4,7 +4,7 @@ project(SlicerGRPC)
 
 #-----------------------------------------------------------------------------
 # Extension meta-information
-set(EXTENSION_HOMEPAGE "https://www.slicer.org/wiki/Documentation/Nightly/Extensions/SlicerGRPC")
+set(EXTENSION_HOMEPAGE "https://github.com/james94/SlicerGRPC.git")
 set(EXTENSION_CATEGORY "GRPC")
 set(EXTENSION_CONTRIBUTORS "James Guzman (SJSU)")
 set(EXTENSION_DESCRIPTION "This extension adds GRPC communication interface to 3D Slicer to exchange real-time imaging, tracking, and other data.")
